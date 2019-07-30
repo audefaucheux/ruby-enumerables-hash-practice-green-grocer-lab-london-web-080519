@@ -291,7 +291,7 @@ describe "Grocer" do
 #        coupons = [beer_coupon, beer_coupon]
 #        expect(checkout(cart, coupons)).to eq(33.00)
 #      end
-#    end
+    end
 
     describe "clearance:" do
 
